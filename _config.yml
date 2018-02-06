@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: jayrgee's blog
+title: "@jayrgee's blog"
 subtitle: yelling at clouds
-description:
-author: \@jayrgee
+description: this is the site description 
+author: '@jayrgee'
 language: default
 timezone:
 
