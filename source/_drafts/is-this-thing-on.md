@@ -26,3 +26,15 @@ However, as of November 2017:
 
 > _Medium is no longer offering new custom domains as a feature. If you already have a custom domain on Medium, nothing will change for you for the foreseeable future, and your domain will continue to work as expected._
 > -- <cite>[Medium Custom Domains Terms of Service](https://help.medium.com/hc/en-us/articles/115003286907-Custom-Domains-Terms-of-Service)</cite>
+
+## Hexo
+
+[Hexo](https://hexo.io/) is a _fast, simple & powerful blog framework, powered by Node.js_.
+
+### Useful Hexo References
+
+* [Hexo documentation](https://hexo.io/docs/)
+
+* [Getting Started with the Hexo Blogging Framework](https://www.cgmartin.com/2016/01/03/getting-started-with-hexo-blog/)
+
+* [Hexo.io - Static Site Generator & Blog Platform](http://jr0cket.co.uk/hexo/)
