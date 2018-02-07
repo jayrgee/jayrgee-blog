@@ -2,6 +2,8 @@
 title: is this thing on?
 date: 2018-02-06 14:51:57
 tags:
+- hexo
+- medium
 ---
 
 _it's a new blog!_
@@ -14,12 +16,9 @@ Medium provides a relatively simple means for anyone to set up a blog. You sign 
 
 _Publications_ are collections of posts. Blogs.
 
-You can also allow other Medium users to contribute to your publication as
-_writers_ or _editors_.
-
 As of November 2017 all new publications will be served up on the Medium.com domain.
 
-### No more custom domains on Medium.com
+## No more custom domains on Medium.com
 
 Medium _did_ previously offer custom domains as a feature. This was originally a _free_ option later replaced by a one-off setup fee (US$75) in early 2017.
 
