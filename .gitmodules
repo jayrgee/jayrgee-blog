@@ -1,0 +1,3 @@
+[submodule "themes/landscape-jayrgee"]
+	path = themes/landscape-jayrgee
+	url = https://github.com/jayrgee/hexo-theme-landscape-jayrgee.git

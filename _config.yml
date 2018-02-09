@@ -6,13 +6,22 @@
 title: "@jayrgee's blog"
 subtitle: yelling at clouds
 description: this is the site description 
-author: '@jayrgee'
+author: john gantner
 language: default
 timezone:
 
+# Social
+## setting social Ids
+social:
+  facebook:
+  github: jayrgee
+  instagram:
+  linkedin: jgantner
+  twitter: jayrgee
+  
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://jayrgee.net/
+url: https://jayrgee.net/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -72,7 +81,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: landscape-jayrgee
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
