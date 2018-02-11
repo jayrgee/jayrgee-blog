@@ -20,6 +20,8 @@
     "hexo-server": "^0.2.0"
   },
   "scripts": {
+    "deploy": "hexo deploy",
+    "generate" : "hexo clean && hexo generate",
     "write": "hexo serve --draft --open"
   }
 }
