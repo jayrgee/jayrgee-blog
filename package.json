@@ -21,8 +21,8 @@
   },
   "scripts": {
     "deploy": "hexo deploy",
-    "generate" : "hexo clean && hexo generate",
+    "generate": "hexo clean && hexo generate",
     "write": "hexo serve --draft --open",
-    "hexo" : "hexo --"
+    "hexo": "hexo --"
   }
 }
