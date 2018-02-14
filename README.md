@@ -42,25 +42,19 @@ npm install
 
 ## Writing blog content
 
-I've defined `npm` scripts for basic Hexo functions.
-
-```
-npm run write
-```
-
-...which is the same as running the following Hexo commands:
+Run the Hexo server locally to view posts and drafts.
 
 ```
 hexo serve --draft --open
 ```
 
-### Creating a new Post
+### Create a new Post
 
 ```
 hexo new "name of post"
 ```
 
-### Creating a new Draft
+### Create a new Draft
 
 ```
 hexo new draft "name of draft"
