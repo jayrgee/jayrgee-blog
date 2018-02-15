@@ -80,3 +80,15 @@ Again, as documented in [_Customizing GitHub Pages_][customizing-github-pages]:
 * [Global DNS Propation Checker - What's my DNS?](https://www.whatsmydns.net/)
 
 [customizing-github-pages]: https://help.github.com/categories/customizing-github-pages/
+
+## Hexo
+
+[Hexo](https://hexo.io/) is a _fast, simple & powerful blog framework, powered by Node.js_.
+
+### Useful Hexo References
+
+* [Hexo documentation](https://hexo.io/docs/)
+
+* [Getting Started with the Hexo Blogging Framework](https://www.cgmartin.com/2016/01/03/getting-started-with-hexo-blog/)
+
+* [Hexo.io - Static Site Generator & Blog Platform](http://jr0cket.co.uk/hexo/)
