@@ -24,5 +24,8 @@
     "generate": "hexo clean && hexo generate",
     "write": "hexo serve --draft --open",
     "hexo": "hexo --"
-  }
+  },
+	"volta": {
+		"node": "10.24.0"
+	}
 }
