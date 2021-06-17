@@ -5,8 +5,9 @@ tags:
 date: 2021-06-13 02:36:38
 ---
 
-
 [Funklet](https://funklet.com/) is 10 years old.
+
+![funklet script](/images/funklet-alpha.png)
 
 > Developed from a booklet by Jack Stratton, who wrote the articles, this was an early Web Audio API experiment, one of the first web-tech-based drum machines available.
 
@@ -27,6 +28,8 @@ date: 2021-06-13 02:36:38
 
 &mdash; <cite>Jack Stratton, The Funklet: Graphic notations of twenty classic funk beats. June 2011.<br>https://www.kickstarter.com/projects/1461914303/the-funklet </cite> 
 
+![funklet booklet (facebook)](/images/funklet-booklet-fb.jpg)
+
 ## 2012
 
 > One of the best Kickstarter projects I contributed towards in 2011 ... was Jack Stratton’s [“Funklet: Graphic notations of twenty classic funk beats.”](https://www.kickstarter.com/projects/1461914303/the-funklet?ref=users)
@@ -45,8 +48,34 @@ date: 2021-06-13 02:36:38
 
 &mdash; <cite>Jack Stratton, Mar 16 2012<br>https://www.kickstarter.com/projects/1461914303/the-funklet/posts/190647</cite>
 
+![funklet sequencer](/images/funklet-sample.png)
+
 ---
 
 > Funklet is an educational resource.
 
 &mdash; <cite>WHAT IS FUNKLET?<br> http://funklet.com/about.html</cite>
+
+![funklet logo](/images/funklet-twitter_400x400.png)
+
+## Links
+
+https://funklet.com/
+
+https://machine.funklet.com/funklet.html
+
+https://www.kickstarter.com/projects/1461914303/the-funklet
+
+https://github.com/stenson/funklet
+
+https://twitter.com/funklet
+
+https://www.facebook.com/theFunklet/
+
+https://open.spotify.com/playlist/5zxqTEDtbUxHfaiPOcqFww
+
+https://funklet.bandcamp.com/album/the-funklet-audio-buddy-companion
+
+https://www.kempa.com/funklet/
+
+https://boingboing.net/2016/08/19/funklet-minimalist-drum-seque.html
