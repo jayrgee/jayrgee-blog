@@ -38,13 +38,13 @@ date: 2021-06-13 02:36:38
 
 &mdash; <cite>Adam Kemper. JANUARY 2, 2012<br>http://www.kempa.com/funklet/</cite> 
 
+![funklet booklet (kempa.com)](/images/funklet1-kempa.jpg)
+
 ---
 
 > Rob Stenson called and said we should make a website with a sequencer that plays Funklet beats.  I, in a stroke of genius, agreed.
 >
 > Behold: [funklet.com](http://funklet.com/) (in chrome)
->
-> I could list all the features here, but that would take upwards of seven bullet points.  Browse around.  Discover!  Be your true self.  Program a beat.  Tweet it or delete it!
 
 &mdash; <cite>Jack Stratton, Mar 16 2012<br>https://www.kickstarter.com/projects/1461914303/the-funklet/posts/190647</cite>
 
