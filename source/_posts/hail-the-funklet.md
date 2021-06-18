@@ -78,5 +78,3 @@ https://open.spotify.com/playlist/5zxqTEDtbUxHfaiPOcqFww
 https://funklet.bandcamp.com/album/the-funklet-audio-buddy-companion
 
 https://www.kempa.com/funklet/
-
-https://boingboing.net/2016/08/19/funklet-minimalist-drum-seque.html
