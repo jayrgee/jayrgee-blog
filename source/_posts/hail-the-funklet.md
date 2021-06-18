@@ -3,15 +3,16 @@ title: Hail the Funklet
 tags:
   - funklet
 date: 2021-06-13 02:36:38
+updated: 2021-06-18
 ---
+
+![](/images/funklet-alpha.png)
 
 [Funklet](https://funklet.com/) is 10 years old.
 
-![funklet script](/images/funklet-alpha.png)
-
 > Developed from a booklet by Jack Stratton, who wrote the articles, this was an early Web Audio API experiment, one of the first web-tech-based drum machines available.
 
-&mdash; <cite>Rob Stenson (designer & developer)<br> [http://robstenson.com/](http://web.archive.org/web/20190502075439/http://robstenson.com/)</cite>
+&mdash; <cite>[Rob Stenson (designer & developer)](http://web.archive.org/web/20190502075439/http://robstenson.com/)</cite>
 
 ## 2011
 
@@ -26,7 +27,7 @@ date: 2021-06-13 02:36:38
 > * Roger Hawkins
 > * Clyde Stubblefield
 
-&mdash; <cite>Jack Stratton, The Funklet: Graphic notations of twenty classic funk beats. June 2011.<br>https://www.kickstarter.com/projects/1461914303/the-funklet </cite> 
+&mdash; <cite>[Jack Stratton, The Funklet: Graphic notations of twenty classic funk beats. June 2011.](https://www.kickstarter.com/projects/1461914303/the-funklet)</cite> 
 
 ![funklet booklet (facebook)](/images/funklet-booklet-fb.jpg)
 
@@ -36,7 +37,7 @@ date: 2021-06-13 02:36:38
 >
 > While the Funklet is now out of print, Stratton has encouraged his backers to pass around the [PDF version](http://web.archive.org/web/20140813170242/http://www.kempa.com/files/TheFunklet.pdf), and a website presenting interactive versions of roughly half of the beats has been launched at [Funklet.com](http://funklet.com/).
 
-&mdash; <cite>Adam Kemper. JANUARY 2, 2012<br>http://www.kempa.com/funklet/</cite> 
+&mdash; <cite>[Adam Kemper. January 2012](http://www.kempa.com/funklet/)</cite> 
 
 ![funklet booklet (kempa.com)](/images/funklet1-kempa.jpg)
 
@@ -46,7 +47,7 @@ date: 2021-06-13 02:36:38
 >
 > Behold: [funklet.com](http://funklet.com/) (in chrome)
 
-&mdash; <cite>Jack Stratton, Mar 16 2012<br>https://www.kickstarter.com/projects/1461914303/the-funklet/posts/190647</cite>
+&mdash; <cite>[Jack Stratton, March 2012](https://www.kickstarter.com/projects/1461914303/the-funklet/posts/190647)</cite>
 
 ![funklet sequencer](/images/funklet-sample.png)
 
@@ -54,7 +55,7 @@ date: 2021-06-13 02:36:38
 
 > Funklet is an educational resource.
 
-&mdash; <cite>WHAT IS FUNKLET?<br> http://funklet.com/about.html</cite>
+&mdash; <cite>[WHAT IS FUNKLET?](http://funklet.com/about.html)</cite>
 
 ![funklet logo](/images/funklet-twitter_400x400.png)
 
